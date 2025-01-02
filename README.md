@@ -32,13 +32,9 @@ No additional setup is required as dependencies are managed within the notebook.
 
 ## How to Run in Colab
 1. Open the Colab notebook in your browser.
-2. Run the cells sequentially:
+2. Follow the below steps in order:
    - Authenticate the Google Docs API by uploading the `credentials.json` file when prompted.
-   - Provide the Markdown text you want to convert in the specified cell.
-   - Run the final cell to create a formatted Google Doc in your Google Drive.
-
-3. Once all cells are executed, check your Google Drive for the newly created Google Doc.
+   - Run the final code cell under "Ansible Health Assessment - Submission 2" to create the Google Doc with required formatting.
+3. Once the final cell is executed, check your Google Drive for the newly created Google Doc.
 
 ---
-
-For any questions or issues, feel free to reach out or open an issue in the repository.
